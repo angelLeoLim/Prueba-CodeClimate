@@ -12,7 +12,7 @@
 		$sql="INSERT INTO tbcompras ( IDproveedor, Producto, Precio, Cantidad, Fecha, Precio_total) VALUES ( '$IDproveedor', '$Producto', '$Precio', '$Cantidad','$Fecha','$Precio_total')";
 		$result=$mysqli->query($sql);
 		
-		sfsihfsihfishisf
+		$sfsihfsihfishisf = 5/0;
 
 
 		//Aqui se empieza a modificar la tabla de existencias
